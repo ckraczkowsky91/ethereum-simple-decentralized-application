@@ -1,0 +1,10 @@
+{
+  "name": "ethereum-simple-decentralized-application",
+  "version": "1.0.0",
+  "description": "A decentralized application (dapp) containing a smart contract deployed to an in-memory blockchain.",
+  "dependencies": {
+    "ganache-cli": "^6.10.1",
+    "solc": "^0.6.4",
+    "web3": "^1.2.11"
+  }
+}
